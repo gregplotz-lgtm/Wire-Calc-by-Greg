@@ -1,0 +1,10 @@
+{
+  "name": "WireCalc - Wire Size and Current",
+  "short_name": "WireCalc",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080d17",
+  "theme_color": "#0b1220",
+  "description": "Wire size and current reference calculator.",
+  "icons": []
+}
